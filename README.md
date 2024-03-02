@@ -164,7 +164,7 @@ Joann Vuong
 
 Third part of Aibnb:
 Simo Khanyi -  [Github] https://github.com/simokhanyi
-Onsongo Onditi - 
+Onsongo Onditi - [Github] https://github.com/pronothurah
 
 ## License
 Public Domain. No copy write protection. 
